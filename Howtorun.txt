@@ -1,0 +1,33 @@
+# LifestyleCart
+An Online Shopping website developed using Html, CSS, Bootstrap, MySQL, PHP.<br>
+http://lifestylecart.ml/
+
+Features
+--------
+
+* All forms validated on Client side using HTML5 and on Server side using PHP.
+* Responsive and nice looking webpages 
+
+Running the project 
+-------------------
+
+* Install XAMPP
+* Import database from store.sql file.
+* Run XAMPP and open web page from browser: http://localhost/LifestyleCart/index.php
+
+Project Developers
+----------------
+   V. SRI SUSHMA				  16121A12B0
+   V. VARSHA				      16121A12B1
+   V. TEJASREE				      16121A12B2
+   V.C. PRAVEENA 			      16121A12B3           
+   V. THULASI RAM PRASAD	      16121A12B4	
+   V. HARSHA VARDHAN		      16121A12B5
+   V.JAGADEESH 				      16121A12B6
+   Y. DHARANI	 			      16121A12B7
+   Y. VAMSI KRISHNA 		      16121A12B8         
+   G. MONU 					      15121A1235	
+   K. HARI KRISHNA				  15121A1243
+   
+   Sree Vidyanikethan Engineering Collge, Tirupati.
+
